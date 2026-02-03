@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/atos-actions/download-release-artifact/compare/v1.1.0...v1.1.1) (2026-02-03)
+
+### Bug Fixes
+
+* rebrand repository from Eviden to Atos ([#242](https://github.com/atos-actions/download-release-artifact/issues/242)) ([790c811](https://github.com/atos-actions/download-release-artifact/commit/790c8113e3a6b593cf016518a1e3b53157cc3a21))
+
 ## <small>1.1.1 (2026-02-01)</small>
 
 * chore: Update LICENSE ([938d210](https://github.com/atos-actions/download-release-artifact/commit/938d210))
