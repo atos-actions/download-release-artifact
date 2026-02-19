@@ -4,6 +4,12 @@
 
 * rebrand repository from Eviden to Atos ([#242](https://github.com/atos-actions/download-release-artifact/issues/242)) ([790c811](https://github.com/atos-actions/download-release-artifact/commit/790c8113e3a6b593cf016518a1e3b53157cc3a21))
 
+## [1.1.1](https://github.com/atos-actions/download-release-artifact/compare/v1.1.0...v1.1.1) (2026-02-19)
+
+### Bug Fixes
+
+* rebrand repository from Eviden to Atos ([#242](https://github.com/atos-actions/download-release-artifact/issues/242)) ([790c811](https://github.com/atos-actions/download-release-artifact/commit/790c8113e3a6b593cf016518a1e3b53157cc3a21))
+
 ## [1.1.1](https://github.com/atos-actions/download-release-artifact/compare/v1.1.0...v1.1.1) (2026-02-03)
 
 ### Bug Fixes
